@@ -24,10 +24,10 @@ npm install axios
 
 ## Consumo de dados da API
 
-Endpoint: (https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/api)
-Método HTTP: GET
-Descrição: Puxar informações como link do canal, informações de redes sociais, etc...
-Conteúdo: no website aparece as informações que foram requisitadas de acordo com as telas que o usuário observar
+- Endpoint: (https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/api)
+- Método HTTP: GET
+- Descrição: Puxar informações como link do canal, informações de redes sociais, etc...
+- Conteúdo: no website aparece as informações que foram requisitadas de acordo com as telas que o usuário observar
 
 
 ## Conteúdo adicional
